@@ -1,5 +1,5 @@
-packages/Newtonsoft
+packages
 Properties
 bin/Debug
-obj
+obj/Debug
 .vs
