@@ -1,5 +1,5 @@
 packages
 Properties
-bin/Debug
-obj/Debug
+bin
+obj
 .vs
