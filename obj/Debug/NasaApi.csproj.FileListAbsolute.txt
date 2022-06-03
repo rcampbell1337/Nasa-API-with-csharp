@@ -1,0 +1,10 @@
+C:\Users\robbi\source\repos\NasaApi\bin\Debug\NasaApi.exe.config
+C:\Users\robbi\source\repos\NasaApi\bin\Debug\NasaApi.exe
+C:\Users\robbi\source\repos\NasaApi\bin\Debug\NasaApi.pdb
+C:\Users\robbi\source\repos\NasaApi\obj\Debug\NasaApi.csproj.AssemblyReference.cache
+C:\Users\robbi\source\repos\NasaApi\obj\Debug\NasaApi.csproj.CoreCompileInputs.cache
+C:\Users\robbi\source\repos\NasaApi\obj\Debug\NasaApi.exe
+C:\Users\robbi\source\repos\NasaApi\obj\Debug\NasaApi.pdb
+C:\Users\robbi\source\repos\NasaApi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\robbi\source\repos\NasaApi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\robbi\source\repos\NasaApi\obj\Debug\NasaApi.csproj.CopyComplete
